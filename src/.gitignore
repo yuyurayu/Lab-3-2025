@@ -1,0 +1,12 @@
+Set-Content .gitignore @"
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+"@
